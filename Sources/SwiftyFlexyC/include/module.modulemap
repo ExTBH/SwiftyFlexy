@@ -1,0 +1,4 @@
+module SwiftyFlexyC {
+    umbrella "."
+    export *
+}

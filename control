@@ -1,0 +1,9 @@
+Package: dev.extbh.swiftyflexy
+Name: SwiftyFlexy
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome Orion tweak to read Swift Ivars!
+Maintainer: ExTBH
+Author: ExTBH
+Section: Tweaks
+Depends: ${ORION}, firmware (>= 12.2), dev.extbh.swifthooker ( >= 1.0)
